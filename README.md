@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c,c++ programming
 - 💞️ I’m looking to collaborate on website making
 - 📫 email on goyalteena33@gmail.com to reach me
-- 😄 Pronouns: 
 - ⚡ Fun fact: starting my journey at age of 17
 
 <!---
